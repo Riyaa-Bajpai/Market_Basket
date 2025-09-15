@@ -13,4 +13,5 @@ wordcloud>=1.9
 # Machine Learning / Pattern Mining
 mlxtend>=0.21
 streamlit
+pyvis
 
